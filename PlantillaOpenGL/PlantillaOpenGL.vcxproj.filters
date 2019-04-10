@@ -47,7 +47,7 @@
     <ClCompile Include="Modelo.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Navecpp.cpp">
+    <ClCompile Include="Nave.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
